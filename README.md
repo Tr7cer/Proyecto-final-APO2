@@ -2,5 +2,5 @@
 
 Integrantes: 
 
-Juan Camilo Mejía 
+- Juan Camilo Mejía 
 - David Felipe Hernandez
